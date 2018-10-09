@@ -12,3 +12,6 @@ click = "*"
 
 [dev-packages]
 
+pydocstyle = "*"
+pycodestyle = "*"
+pylint = "*"

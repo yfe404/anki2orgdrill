@@ -20,12 +20,25 @@ Org-Drill is an extension for Org mode. Org-Drill uses a spaced repetition algor
 
 ** Features
 
-@todo
+Convert a single export file in plain text from Anki to a single 
+file in org-drill format.
 
+*Currently, only two-sided cards are supported.*
 
 ** Usage
 
-@todo
+#+BEGIN_SRC sh
+Usage: a2od.py convert [OPTIONS] SRC DST
+
+  Convert Anki style flashcards to Emacs org-drill format.
+
+  params:   src: Anki Cards in plain text export.   dst: Destination org
+  file.
+
+Options:
+  --help  Show this message and exit.
+yfes-MacBook-Pro:anki2orgdrill yfe$ 
+#+END_SRC
 
 
 ** References 
