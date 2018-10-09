@@ -1,0 +1,36 @@
+* anki2orgdrill
+
+
+** What are flashcards ? 
+
+From Wikiedia: 
+
+A flashcard or flash card is a card bearing information, as words or numbers, on either or both sides, used in classroom drills or in private study. One writes a question on a side and an answer overleaf. Flashcards can bear vocabulary, historical dates, formulae or any subject matter that can be learned via a question-and-answer format. Flashcards are widely used as a learning drill to aid memorization. They are often associated with spaced repetition, i.e. reviewed at expanding time intervals. 
+
+** What is Anki ? 
+
+Anki is a spaced repetition flashcard program.
+
+
+** What is org-drill ? 
+
+Org-Drill is an extension for Org mode. Org-Drill uses a spaced repetition algorithm to conduct interactive "drill sessions", using org files as sources of facts to be memorised. 
+
+
+
+** Features
+
+@todo
+
+
+** Usage
+
+@todo
+
+
+** References 
+
+https://en.wikipedia.org/wiki/Flashcard
+https://en.wikipedia.org/wiki/Anki_(software)
+https://orgmode.org/worg/org-contrib/org-drill.html
+https://orgmode.org/
