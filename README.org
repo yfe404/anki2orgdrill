@@ -30,7 +30,7 @@ Org-Drill is an extension for Org mode. Org-Drill uses a spaced repetition algor
 
 ** References 
 
-https://en.wikipedia.org/wiki/Flashcard
-https://en.wikipedia.org/wiki/Anki_(software)
-https://orgmode.org/worg/org-contrib/org-drill.html
-https://orgmode.org/
+- https://en.wikipedia.org/wiki/Flashcard
+- https://en.wikipedia.org/wiki/Anki_(software)
+- https://orgmode.org/worg/org-contrib/org-drill.html
+- https://orgmode.org/
