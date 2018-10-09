@@ -37,7 +37,6 @@ Usage: a2od.py convert [OPTIONS] SRC DST
 
 Options:
   --help  Show this message and exit.
-yfes-MacBook-Pro:anki2orgdrill yfe$ 
 #+END_SRC
 
 
