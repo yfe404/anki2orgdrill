@@ -25,10 +25,17 @@ file in org-drill format.
 
 *Currently, only two-sided cards are supported.*
 
+
+** Installation
+   
+   #+begin_src sh
+   pip install a2od
+   #+end_src
+
 ** Usage
 
 #+BEGIN_SRC sh
-Usage: a2od.py convert [OPTIONS] SRC DST
+Usage: a2od convert [OPTIONS] SRC DST
 
   Convert Anki style flashcards to Emacs org-drill format.
 
@@ -38,6 +45,12 @@ Usage: a2od.py convert [OPTIONS] SRC DST
 Options:
   --help  Show this message and exit.
 #+END_SRC
+
+*** Example 
+
+    #+begin_src sh
+    a2od convert ~/Downloads/AllDecks.txt decks.org
+    #+end_src
 
 
 ** References 
